@@ -44,7 +44,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/etWeight"
             android:layout_weight="2"
-            android:hint="Enter Your Weight in KG"/>
+            android:hint="Enter Your Weight in KG"
+            android:inputType="number"/>
 
 
     </LinearLayout>
